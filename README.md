@@ -1,4 +1,4 @@
-<img align="left" width="70px" src="https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/icon.png"></img>
+<img align="left" width="70px" src="https://raw.githubusercontent.com/Bomulastical1/Holy-Unblocker/master/views/assets/img/icon.png"></img>
 # Holy Unblocker
 
 Holy Unblocker, an official flagship Titanium Network site, can bypass web filters regardless of whether it is an extension or network-based. Being a secure web proxy service, it supports numerous sites while being updated frequently and concentrating on detail with design, mechanics, and features.
@@ -251,7 +251,7 @@ If you still have any questions feel free to ask them in the discord linked here
 ## More Information
 This project is maintained by Quite A Fancy Emerald with massive help from BinBashBanana (OlyB) and is an official flagship Titanium Network proxy site.
 
-- <a href="https://github.com/titaniumnetwork-dev/">https://github.com/titaniumnetwork-dev/</a>
+- <a href="https://github.com/titaniumnetwork-dev/">https://github.com/Bomulastical1/</a>
 - <a href="https://titaniumnetwork.org/">https://titaniumnetwork.org/</a>
 
 View the official website for more detail and credits.
